@@ -10,6 +10,9 @@ public class TestScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+
+		print("this is another line of code~");
 	
 	}
 }
